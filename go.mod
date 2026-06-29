@@ -60,5 +60,8 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-// Temporary: pin to feature branch. Revert once tikv/pd#10611 is merged and tagged.
-replace github.com/tikv/pd/client => github.com/YuhaoZhang00/pd/client v0.0.0-20260624120815-3d9d04e62438
+replace (
+	// Temporary: pin to feature branches. Revert once pingcap/kvproto#1494 and tikv/pd#10611 are merged and tagged.
+	github.com/pingcap/kvproto => github.com/YuhaoZhang00/kvproto v0.0.0-20260624120537-6017aaa77a41
+	github.com/tikv/pd/client => github.com/YuhaoZhang00/pd/client v0.0.0-20260624120815-3d9d04e62438
+)
