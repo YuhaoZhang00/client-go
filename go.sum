@@ -3,10 +3,10 @@ github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/VividCortex/ewma v1.2.0 h1:f58SaIzcDXrSy3kWaHNvuJgJ3Nmz59Zji6XoJR/q1ow=
 github.com/VividCortex/ewma v1.2.0/go.mod h1:nz4BbCtbLyFDeC9SUHbtcT5644juEuWfUAUnGx7j5l4=
-github.com/YuhaoZhang00/kvproto v0.0.0-20260624120537-6017aaa77a41 h1:sHvrQfL+rmX1otuU3ePa2bTfQrASDLsTPn/F9mUw/5w=
-github.com/YuhaoZhang00/kvproto v0.0.0-20260624120537-6017aaa77a41/go.mod h1:z6+aAHB7dBkA+LyinEX+48/ImRJ3jag0Hg0c7wkhEvE=
-github.com/YuhaoZhang00/pd/client v0.0.0-20260624120815-3d9d04e62438 h1:zhrfKHeYJw0mB2lyNakA/z1DzyYMpVFbncVWc4T9430=
-github.com/YuhaoZhang00/pd/client v0.0.0-20260624120815-3d9d04e62438/go.mod h1:GWqREXhKvoyqNAfiq/X4Kwkv5ul5WG3RXV12ly7VkvI=
+github.com/YuhaoZhang00/kvproto v0.0.0-20260629094258-88fa8d673cc4 h1:LnFEMuCc2nLfOaslQilXp/72yA/Up2H9pUO9ljWU6q8=
+github.com/YuhaoZhang00/kvproto v0.0.0-20260629094258-88fa8d673cc4/go.mod h1:z6+aAHB7dBkA+LyinEX+48/ImRJ3jag0Hg0c7wkhEvE=
+github.com/YuhaoZhang00/pd/client v0.0.0-20260629094436-a6ffe5997761 h1:N3LGNqCRxcj+pU9XeubM2EyivKvJHxLftLeLFafzN7Q=
+github.com/YuhaoZhang00/pd/client v0.0.0-20260629094436-a6ffe5997761/go.mod h1:GWqREXhKvoyqNAfiq/X4Kwkv5ul5WG3RXV12ly7VkvI=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=

@@ -62,6 +62,6 @@ require (
 
 replace (
 	// Temporary: pin to feature branches. Revert once pingcap/kvproto#1494 and tikv/pd#10611 are merged and tagged.
-	github.com/pingcap/kvproto => github.com/YuhaoZhang00/kvproto v0.0.0-20260624120537-6017aaa77a41
-	github.com/tikv/pd/client => github.com/YuhaoZhang00/pd/client v0.0.0-20260624120815-3d9d04e62438
+	github.com/pingcap/kvproto => github.com/YuhaoZhang00/kvproto v0.0.0-20260629094258-88fa8d673cc4
+	github.com/tikv/pd/client => github.com/YuhaoZhang00/pd/client v0.0.0-20260629094436-a6ffe5997761
 )
